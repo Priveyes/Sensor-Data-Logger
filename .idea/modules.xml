@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android Source/datalogger/datalogger.iml" filepath="$PROJECT_DIR$/Android Source/datalogger/datalogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android Source/wear/src/wear/main2.iml" filepath="$PROJECT_DIR$/Android Source/wear/src/wear/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android Source/mobile/mobile.iml" filepath="$PROJECT_DIR$/Android Source/mobile/mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android Source/wear/wear.iml" filepath="$PROJECT_DIR$/Android Source/wear/wear.iml" />
+    </modules>
+  </component>
+</project>
